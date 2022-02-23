@@ -1,0 +1,70 @@
+
+.login{  
+  width: 500px;  
+  overflow: hidden;  
+  margin: auto;  
+  margin: 20 0 0 450px;  
+  padding: 80px; 
+  margin-top: 10px; 
+  background-color: rgba(253, 253, 253, 0.377)  ;
+  
+  box-shadow: 10px 10px ; 
+} 
+
+.login-title{
+  font-size: 50px;
+  text-align: center;
+  padding-top: 60px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.label2{  
+color: black;  
+font-size: 18px;  
+}  
+
+.inputfield1{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+font-weight: bold;
+}  
+  
+#log{  
+width: 30%;
+padding: 6px 0;
+font-size: 14px;
+font-family: "Lobster", Sans-serif;
+color: white;
+background-color: #523bbb;
+border-radius: 5px;
+}  
+span{  
+color: white;  
+font-size: 17px;  
+}  
+a{  
+float: right;  
+background-color: grey;  
+}  
+
+
+.anchor{
+  color:black;
+  background-color: rgba(253, 253, 253, 0);
+  position: absolute;
+  left: 600px;
+}
+
+.login .log:hover {
+box-shadow: 3px 3px 6px rgb(255, 214, 176);
+}
+
+#erro{
+  font-size: 15px;
+  padding-left: 200px;
+  color: red;
+  display: none;
+}

@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.Home{
+    background-image: url('C:\Users\VISHIVAJ\MyProject\demo\wallet.jpg');
+    background-position: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 100%;
+    width: 200vh;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+}
+
+.Pr-title{
+    padding-top: 60px;
+    padding-left: 65px;
+    font-size: 100px;
+    color: white;
+    font-family: "Lobster", Sans-serif;
+}
+ 
+
+.tr-title{
+    font-size: xx-large;
+}
+.tr{
+    background-color: aliceblue;
+    
+}
+.tr-heading{
+    padding-top: 100px;
+    font-size: 100px;
+    text-align: center;
+}
+.back-button{
+    padding-left: 50%;
+}
+
+.quote{
+    color:white;
+    margin-left: 90px;
+    font-size: 20px;
+}
+
+.reg-button{
+    margin-left: 720px;
+    border-radius: 35px;
+    margin-top: 20px;
+    height: 80px;
+    width: 150px;
+    background-color: rgb(20, 117, 117);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.log-button:hover{
+    background-color: rgb(24, 163, 163);
+}
+
+.reg-button:hover{
+    background-color: rgb(24, 163, 163);
+}
+
+.log-button{
+    margin-left: 520px;
+    margin-top: 50px;
+    border-radius: 35px;
+    height: 80px;
+    width: 150px;
+    background-color: rgb(20, 117, 117);
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
